@@ -12,7 +12,6 @@ God mode on an ERC20 token allows a special address to steal other people’s fu
 
 ## assignment2 - ERC20 with sanctions
 
-Description
 Congratulations! The government wants to use your smart contract ERC20 tokens now for transferring economic value!
 
 However, they require the ability to prevent transfers to blacklisted addresses from occurring, and they want addresses on a blacklist to not be able to transfer their funds until they are removed from the blacklist.
@@ -27,7 +26,6 @@ Hint: if you chose to use the OpenZeppelin implementation, study the function he
 
 ## assignment3: Token sale with ethereum
 
-Description
 Add a function where users can mint 1000 tokens if they pay 1 ether.
 
 IMPORTANT: your token should have 18 decimal places as is standard in ERC20 tokens
@@ -40,7 +38,6 @@ IMPORTANT: you must have a function to withdraw the ethereum from the contract t
 
 ## assignment4
 
-Description
 WARNING! THIS ASSIGNMENT IS TRICKIER THAN THE EARLIER ONES.
 
 Take what you did in assignment 4 and give the users the ability to transfer their tokens to the contract and receive 0.5 ether for every 1000 tokens they transfer.
